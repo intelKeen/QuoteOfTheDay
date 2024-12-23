@@ -1,4 +1,4 @@
-# quote_of_the_day
+# Quote of the day
 
 A new Flutter project.
 
